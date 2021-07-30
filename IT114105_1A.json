@@ -1,0 +1,35 @@
+{
+    "class": "IT114105_1A",
+    "last_update":"2021-7-30 18:48",
+    "moduleList": [
+        "ITP4501",
+        "ITP4523M",
+        "ITP4915M"
+    ],
+    "workList": [
+        {
+            "work_id": "0",
+            "module": "ITP4501",
+            "work": "Lab12",
+            "due": "2021-8-5 23:55",
+            "remark": "",
+            "version": "3"
+        },
+        {
+            "work_id": "1",
+            "module": "ITP4523M",
+            "work": "Lab02b",
+            "due": "2021-8-6 16:00",
+            "remark": "",
+            "version": "1"
+        },
+        {
+            "work_id": "2",
+            "module": "ITP4909",
+            "work": "Assignment",
+            "due": "2021-8-3 12:00",
+            "remark": "Submit zip file.\nLate submission will not be accepted.",
+            "version": "5"
+        }
+    ]
+}
